@@ -5,10 +5,10 @@ Implemented a simple calculator in Java that can perform basic arithmetic operat
 This project is a simple calculator implemented in Java as part of Task #1 for the TechnoHack internship. The calculator performs basic arithmetic operations, including addition, subtraction, multiplication, and division. It prompts the user to input two numbers, choose an operation, and displays the result.
 
 # Features
-• Addition
-• Subtraction
-• Multiplication
-• Division
+  1. Addition
+  2. Subtraction
+  3. Multiplication
+  4. Division
 
 # How it works:
   1. Asks the user to input two numbers.
